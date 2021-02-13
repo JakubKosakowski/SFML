@@ -48,6 +48,4 @@ public:
 	void render();
 };
 
-#include "Game.cpp"
-
 #endif
